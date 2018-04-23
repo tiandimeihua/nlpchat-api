@@ -27,3 +27,7 @@ node post.js
      msg: 'sign invalid',
      data: { session: '', answer: '' }
 ```
+
+reference:
+[智能闲聊](https://ai.qq.com/doc/nlpchat.shtml)
+[提取接口鉴权](https://ai.qq.com/doc/auth.shtml)
