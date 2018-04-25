@@ -10,7 +10,7 @@ npm install underscore
 npm install blueimp-md5
 npm install axios
 npm install qs
-node post2.js
+node post.js
 ```
 
 * [underscorejs](http://underscorejs.org/)
